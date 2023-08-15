@@ -1,4 +1,4 @@
-# Ai Simulator
+# AI Simulator
 
 Control AI to play the game for you.
 
